@@ -1,9 +1,0 @@
-# range(시작, 종료, 증감)
-for i in range(3,0,-1):
-    print(i)
-
-
->>>
-3
-2
-1
