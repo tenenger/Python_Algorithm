@@ -1,0 +1,5 @@
+string = input()
+search = input()
+string = string.replace(search, '*')
+result = string.count('*')
+print(result)
