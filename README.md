@@ -5,6 +5,7 @@
 <h3>Sites</h3>
 <ul>
  <li><a href='https://www.acmicpc.net/' target="_blank">백준</a></li>
+ <li><a href='https://codeup.kr/index.php' target="_blank">코드업</a></li>
 </ul>
 
 <h3>Books</h3>
